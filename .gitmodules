@@ -1,3 +1,6 @@
 [submodule "UID_HW_1"]
 	path = UID_HW_1
 	url = https://github.com/m-y-lee2002/UID_HW_1
+[submodule "UID_HW_2"]
+	path = UID_HW_2
+	url = https://github.com/m-y-lee2002/UID_HW_2.git
