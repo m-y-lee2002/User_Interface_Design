@@ -7,3 +7,6 @@
 [submodule "UID_HW_3"]
 	path = UID_HW_3
 	url = https://github.com/m-y-lee2002/UID_HW_3.git/
+[submodule "UID_HW_4"]
+	path = UID_HW_4
+	url = https://github.com/m-y-lee2002/UID_HW_4.git
